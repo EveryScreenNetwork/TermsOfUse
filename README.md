@@ -43,4 +43,5 @@
 - misskey.io (사일런스 / 규칙 비호환)
 - threads.net (사일런스 / 규칙 비호환)
 - bsky.brid.gy (사일런스 / 규칙 및 프로토콜 비호환)
+- bird.makeup (사일런스 / 혐오성 게시물의 유입 방지 목적)
 - pawoo.net (차단 / 규칙 비호환 및 NSFW 미디어의 과도한 유입 방지 목적)
